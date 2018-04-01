@@ -1,0 +1,6 @@
+BUS-2	BUS-3	BUS-5	BUS-6	Mean	Median
+s	n	n	n	2e-05	4.2e-06
+f	s	n	n	2e-05	4.2e-06
+f	f	s	n	2e-05	4.2e-06
+f	f	f	s	2e-05	4.2e-06
+f	f	f	f	3.8e-06	5.7e-07

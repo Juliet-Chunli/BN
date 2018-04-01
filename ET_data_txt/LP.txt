@@ -1,0 +1,9 @@
+BUS-2	BUS-3	BUS-5	BUS-6	Mean	Median
+n	s	s	s	0.00087	0.00021
+n	f	s	s	0.0087	0.0087
+n	s	f	s	0.00306	0.00306
+n	s	s	f	0.0101	0.0101
+n	f	f	s	0.0101	0.0101
+n	f	s	f	1	1
+n	s	f	f	1	1
+n	f	f	f	1	1
