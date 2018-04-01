@@ -9,4 +9,6 @@ event_tree.py a class to quantify event trees which is specified to nuclear powe
 
 timeDepTemplate.py is a template for time dependent scenario quantification which could be run and get output the change of variables of interest according to time.
 
-All others are support function or input data for conditional probability distribution. 
+singleUnitContTemplate.py is another executable template to quantify the static structure specified in it. 
+
+All others are support function or input data for conditional probability distributions or event tree structures. 
